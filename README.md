@@ -1,5 +1,7 @@
 # README
 
+## このアプリは、YoutubeのWEB APIを用いて、動画を簡単に検索することができるサイトを作った、練習用のものです。
+
 This README would normally document whatever steps are necessary to get the
 application up and running.
 
